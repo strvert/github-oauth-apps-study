@@ -1,0 +1,2 @@
+# github-oauth-apps-study
+GitHubのIssuesやDiscussionsに関わるAPIのテストをするために作成したリポジトリ
